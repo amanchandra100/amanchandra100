@@ -59,4 +59,7 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/amanchandra10/Spark_Foundation_Task1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra10&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/amanchandra10/OIBSIP-To-Do-Webapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra10&repo=OIBSIP-To-Do-Webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/amanchandra10/CodeClauseInternship_Basic_Chat_App" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra10&repo=CodeClauseInternship_Basic_Chat_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/amanchandra10/Spark_Foundation_Task1" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra10&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  </div><br /><br /><br /><br /><br /><br /><br />
