@@ -40,17 +40,17 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amanchandra10"><img src="https://github-readme-stats.vercel.app/api?username=amanchandra10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amanchandra10's GitHub stats" /></a>
+<a href="http://www.github.com/amanchandra100"><img src="https://github-readme-stats.vercel.app/api?username=amanchandra100&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amanchandra100's GitHub stats" /></a>
 
-<a href="http://www.github.com/amanchandra10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanchandra10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/amanchandra100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanchandra100&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanchandra10&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanchandra100&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/amanchandra10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchandra10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/amanchandra100" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchandra100&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/amanchandra10/CodeClauseInternship_Basic_Chat_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra10&repo=CodeClauseInternship_Basic_Chat_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/amanchandra10/Spark_Foundation_Task1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra10&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/amanchandra100/CodeClauseInternship_Basic_Chat_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=CodeClauseInternship_Basic_Chat_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/amanchandra100/Spark_Foundation_Task1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div><br /><br /><br /><br /><br /><br /><br />
