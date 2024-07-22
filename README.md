@@ -13,7 +13,7 @@ I have been learning coding form class 10th. Now I am learning Full Stack Web De
 * 🤝  I'm open to collaborating on Web Development and Designing
 
 <a href="https://www.github.com/amanchandra10" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amanchandra10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/amanchandra___" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/amanchandra100?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/amanchandra___" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amanchandra1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/amanchandra10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/amanchandra100" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/amanchandra___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   <a href="http://www.instagram.com/amanchandra___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.facebook.com/people/Aman-Chandra/pfbid0dzM3zx9Wm7UoT5QG8pCc6FhomPtrvujS7VCamat6HAWPTgUWeJnh7mqLJPfJhM3Kl/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
