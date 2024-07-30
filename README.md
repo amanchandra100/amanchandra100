@@ -7,12 +7,13 @@ Web Developer And Designer
 I have been learning coding form class 10th. Now I am learning Full Stack Web Development.
 
 * 🌍  I'm based in Lucknow,UP,India
-* 🖥️  See my portfolio at [My Portfolio](https://amanchandra100.github.io/Portfolio_website/)
+* 🖥️  See my portfolio at [My Portfolio](https://amanchandra100.github.io/Portfolio_website/)  which is made with HTML CSS JS.
+* 🖥️  See my portfolio at [My Portfolio](https://amanchandra.vercel.app/), which is made in NEXT JS.
 * ✉️  You can contact me at [aman2310chandra@gmail.com](mailto:aman2310chandra@gmail.com)
 * 🧠  I'm learning Back-End Web development.
 * 🤝  I'm open to collaborating on Web Development and Designing
 
-<a href="https://www.github.com/amanchandra10" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/amanchandra100" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/amanchandra100?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/amanchandra___" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
