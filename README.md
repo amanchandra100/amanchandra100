@@ -59,3 +59,6 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
   <a href="https://github.com/amanchandra100/CodeClauseInternship_News_Portal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=CodeClauseInternship_News_Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/amanchandra100/Spark_Foundation_Task1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div><br /><br /><br /><br /><br /><br /><br />
+
+
+[![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
