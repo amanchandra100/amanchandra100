@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/amanchandra100?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+## 💻 Tech Stack:
 
 
 <p align="left">
@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 </p>
 
 
-### Socials
+## 🌐 Social Profiles:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amanchandra1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
@@ -40,8 +40,7 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
   </p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats:
 
 <a href="http://www.github.com/amanchandra100"><img src="https://github-readme-stats.vercel.app/api?username=amanchandra100&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amanchandra100's GitHub stats" /></a>
 
@@ -51,14 +50,15 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 
 <a href="https://github.com/amanchandra100" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchandra100&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center">
-  <a href="https://github.com/amanchandra100/CodeClauseInternship_Basic_Chat_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=CodeClauseInternship_Basic_Chat_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/amanchandra100/CodeClauseInternship_Basic_Text_Editor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=CodeClauseInternship_Basic_Text_Editor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/amanchandra100/CodeClauseInternship_News_Portal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=CodeClauseInternship_News_Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/amanchandra100/Spark_Foundation_Task1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  </div><br /><br /><br /><br /><br /><br /><br />
+## 💫 Top Repositories:
+<a href="https://github.com/amanchandra100/CodeClauseInternship_Basic_Chat_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=NLP-Text-Analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/amanchandra100/CodeClauseInternship_Basic_Text_Editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Book-Recommender-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
+<a href="https://github.com/amanchandra100/CodeClauseInternship_News_Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=NLP-Text-Analyzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/amanchandra100/Spark_Foundation_Task1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmit27&repo=Book-Recommender-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
+---
 [![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
