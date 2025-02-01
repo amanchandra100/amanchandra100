@@ -46,7 +46,10 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 
 <a href="http://www.github.com/amanchandra100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanchandra100&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanchandra100&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Graph_3](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanchandra100&theme=github_dark)
+
+
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanchandra100&theme=react-dark&hide_border=true&bg_color=1c1917)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <a href="https://github.com/amanchandra100" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchandra100&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
