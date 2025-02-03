@@ -44,8 +44,7 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 
 <a href="http://www.github.com/amanchandra100"><img src="https://github-readme-stats.vercel.app/api?username=amanchandra100&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="amanchandra100's GitHub stats" /></a>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amanchandra100&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amanchandra100)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amanchandra100&bg_color=000000&color=ffffff&line=ffd152&point=55ff33&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
