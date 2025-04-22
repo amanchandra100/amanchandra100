@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)-->
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aman Chandra
 ====================================================================================================================================
@@ -67,4 +67,4 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 <a href="https://github.com/amanchandra100/Spark_Foundation_Task1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amanchandra100&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=amanchandra100&style=flat-square&color=yellow)
