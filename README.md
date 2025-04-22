@@ -67,4 +67,4 @@ src="https://img.shields.io/twitter/follow/amanchandra___?logo=twitter&style=for
 <a href="https://github.com/amanchandra100/Spark_Foundation_Task1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amanchandra100&repo=Spark_Foundation_Task1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 ---
-![](https://komarev.com/ghpvc/?username=amanchandra100&style=flat-square&color=yellow)
+![](https://komarev.com/ghpvc/?username=amanchandra100&style=flat-square&color=brightgreen)
